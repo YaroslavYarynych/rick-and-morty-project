@@ -1,0 +1,21 @@
+.dropdown {
+  &__content {
+    & :first-child {
+      border-top-left-radius: 8px;
+      border-top-right-radius: 8px;
+    }
+    & :last-child {
+      border-bottom-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+    }
+  }
+  &__icon {
+    transform: rotate(90deg);
+    transition: all 0.3s;
+
+    &_active {
+      transform: rotate(-90deg);
+      transition: all 0.3s;
+    }
+  }
+}
