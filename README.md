@@ -10,9 +10,9 @@ Dive into the React Rick and Morty Universe Explorer, an immersive web applicati
 
 ## Requirements:
 
-- Develop and integrate a custom API to manage product data.
+- Create a Dashboard with all characters
+- Create a Modal view of details of a specific character
 - Implement filtering and sorting functionalities for enhanced user experience.
-- Enable users to add and remove products from both the cart and favorites.
 - Incorporate animations using a library to enhance visual appeal and interaction.
 
 ## Build With
