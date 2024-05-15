@@ -48,7 +48,7 @@ export const Home: React.FC = () => {
           if (query) {
             return (
               item.name.toLowerCase().includes(query.toLowerCase()) ||
-              item.gender.toLowerCase().includes(query.toLowerCase()) ||
+              item.gender.toLowerCase().startsWith(query.toLowerCase()) ||
               item.species.toLowerCase().includes(query.toLowerCase())
             );
           } else {
