@@ -1,11 +1,12 @@
-# Rick and morty test task
+# React Rick and Morty Universe Explorer
 
-The bicycle store application built with React.js offers a comprehensive platform for users to explore and shop for bicycles. It features a search bar and sorting options allowing customers to easily find bikes based on various criteria such as price, brand, and year. Users can conveniently add products to their cart for purchase and manage their favorites list for future reference. The application incorporates animations and other libraries to enhance the user interface and provide an engaging shopping experience. Overall, the bicycle store offers a seamless browsing and purchasing experience tailored to cycling enthusiasts.
+Dive into the React Rick and Morty Universe Explorer, an immersive web application that invites users to embark on an exhilarating journey through the captivating world of Rick and Morty. With a rich array of features, this application offers an unparalleled exploration experience, bringing to life the iconic characters, episodes, and locations from the beloved animated series.
 
 ## Links:
 
-- [DEMO](https://yaroslavyarynych.github.io/Bike-shop/)
-- [Solution](https://github.com/YaroslavYarynych/Bike-shop.git)
+- [DEMO](https://yaroslavyarynych.github.io/rick-and-morty-project/)
+- [Solution](https://github.com/YaroslavYarynych/rick-and-morty-project.git)
+- [Video]()
 
 ## Requirements:
 
@@ -19,8 +20,8 @@ The bicycle store application built with React.js offers a comprehensive platfor
 - React (RTK)
 - TypeScript
 - Framer motion
-- React toastify
-- Modules SASS
+- React query
+- Tailwind CSS
 
 ## Setup
 
@@ -33,7 +34,7 @@ $ nvm use 20
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 
 ```sh
-git clone https://github.com/YaroslavYarynych/VRB-react-tech-task.git
+git clone https://github.com/YaroslavYarynych/rick-and-morty-project.git
 ```
 
 3. Open editor, set up project and install necessary packages in the code-editor you use:
