@@ -6,7 +6,7 @@ Dive into the React Rick and Morty Universe Explorer, an immersive web applicati
 
 - [DEMO](https://yaroslavyarynych.github.io/rick-and-morty-project/)
 - [Solution](https://github.com/YaroslavYarynych/rick-and-morty-project.git)
-- [Video]()
+- [Video](https://www.loom.com/share/2ce23b0db67f4d3e8dabfd495bac6899?sid=b08670b9-5e0f-4ab2-8564-d11d85375120)
 
 ## Requirements:
 
